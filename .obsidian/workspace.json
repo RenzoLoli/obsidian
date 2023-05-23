@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "caca190ecdc86449",
+        "id": "97e14b42f9b5d32e",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e0493893a3af7d",
+            "id": "1239573cd1ec219c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/comandos_final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b81de336b9d0c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Router-on-a-stick.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "171",
+                "query": "tag:#http",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "95db269cb0b9d882",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -159,11 +155,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c8e0493893a3af7d",
+  "active": "1239573cd1ec219c",
   "lastOpenFiles": [
+    "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Untitled.md",
+    "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Untitled",
+    "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/VLSM.md",
+    "hacking/Services.md",
+    "hacking/Tools.md",
+    "Untitled.md",
+    "hacking/Exploits.md",
+    "hacking",
+    "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/comandos_final.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Switch Commands.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Router-on-a-stick.md",
-    "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/comandos_final.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Default Commands.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Comandos de Configuracion.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Comunicacion de redes.md",
@@ -171,7 +175,6 @@
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Switch VLAN.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/comandos_final.txt",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Switch Descriptions.md",
-    "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/VLSM.md",
     "UPC/cursos/Redes y Comunicaciones de Datos - Presencial/Router Commands.md",
     "UPC/cursos/Estadistica Aplicada I - A distancia/Estadistica Aplicada 1.md",
     "UPC/Recursos/Pasted image 20230425181135.png",
@@ -195,17 +198,9 @@
     "upc/cursos/Arquitectura de Computadoras - Presencial/resources/info/bibliografia_unidad_2.PNG",
     "upc/cursos/Arquitectura de Computadoras - Presencial/resources/info/bibliografia_complementaria.PNG",
     "upc/cursos/Arquitectura de Computadoras - Presencial/resources/info/bibliografia_basica.PNG",
-    "upc/cursos/Arquitectura de Computadoras - Presencial/resources/semana_2/Sesión 1 (1).pdf",
     "upc/cursos/Arquitectura de Computadoras - Presencial/resources/semana_1/sesion_1_opcional.md",
-    "upc/cursos/Arquitectura de Computadoras - Presencial/semana_2/Sesión 1 (1).pdf",
     "upc/cursos/Complejidad Algoritmica - A distancia/resources/info/bibliografia_unidad_2.PNG",
     "upc/cursos/Complejidad Algoritmica - A distancia/resources/info/bibliografia_unidad_1.PNG",
-    "upc/cursos/Complejidad Algoritmica - A distancia/resources/info/bibliografia_complementaria_3.PNG",
-    "upc/cursos/Arquitectura de Computadoras - Presencial/resources/semana_1/sesion_2_opcional.md",
-    "upc/cursos/Arquitectura de Computadoras - Presencial/semana_1/Ejercicios – Sistemas de numeración.md",
-    "upc/cursos/Arquitectura de Computadoras - Presencial/semana_1/sesion_2_opcional.md",
-    "upc/cursos/Arquitectura de Computadoras - Presencial/semana_1/sesion_1_opcional.md",
-    "Fondos Indexados.md",
-    "2023-04-04.md"
+    "upc/cursos/Complejidad Algoritmica - A distancia/resources/info/bibliografia_complementaria_3.PNG"
   ]
 }
