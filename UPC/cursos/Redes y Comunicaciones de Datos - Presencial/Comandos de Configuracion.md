@@ -72,6 +72,30 @@ SEGURIDAD BÁSICA DE LOS SWITCHES
 
 
 
+SEGURIDAD BASICA 
+---
+
+	en
+	conf t
+	service password-encryption
+	security password min-length 10
+	enable secret upc1234567
+	no ip domain-lookup
+	username equipo1 secret upc7654321
+	login block-for 180 attempts 4 within 120
+	line console 0
+	login local
+	exec-timeout 6
+	loggin synchronous
+	exit
+	line vty 0 15
+	transport input ssh
+	login local
+	exec-timeout 6
+	loggin synchronous
+	banner motd $ *** SOLO PERSONAL AUTORIZADO *** $
+	end
+	copy running-config startup-config
 
 
 
